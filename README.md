@@ -11,14 +11,14 @@ I spent a lot of time playing with pivot tables to understand them more.  It was
 ### Analysis of Outcomes Based on Goals
 This task was pretty time intensive in making sure the formulas matched.  I think there are some tricks that would make it easier such as using $E$1 which helps lock the cells so it's easier to copy and paste the formulas.  Once I figured that out it made the process quicker.  
 ### Challenges and Difficulties Encountered
-The only challenged I had was the "Outcomes Based on Goal"  Did not match the one on the assignment. I double checked mine and it seems to matcht he excel sheet. for instance the one published did not show any canceled ones, but that isn't accurate as there are 2 that are at the $15,000 range.  
+The only challenged I had was the "Outcomes Based on Goal"  did not match the one on the assignment. I double checked mine and it seems to match the excel sheet. It took me a little while to find the problem whish was I wasn't filtering by subcategory "plays."  After I took care of that it worked well.  
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   1.  The best time to successfully launch a theater play is from April to July with a peak around the May time line.  
   2.  There doesbn't seem to be a huge difference in failures or cancelation based on date.  
 - What can you conclude about the Outcomes based on Goals?
-  1. This section is a little less obvious.  Mine didn't match the assignment as discussed in the next section.  Overall the ratio of successful to failure has the largest difference less than $5,000 and between $35,000-$45,000.   
+  1. This graph was interesting in that it crossed over at the 15-19K , 35-40 K and 45-49 K.  I wonder if that means there really isn't a correlation except that after 45 K there were more likely to fail than succeed.  
 - What are some limitations of this dataset?
   1.  This data set was based on goal and did not include pledged.  Although this is good information it probably would be better using pledged amount.
   2.  This is also limited to one country so it would be good to see if the trend is similar elsewhere.  
