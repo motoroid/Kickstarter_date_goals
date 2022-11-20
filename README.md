@@ -8,10 +8,16 @@ She has requested to know how different campaigns fared in relation to their lau
 
 ### Analysis of Outcomes Based on Launch Date
 I spent a lot of time playing with pivot tables to understand them more.  It was interesting how I had to close things in the Years column to make it look good.  Such as the quarters.  
+<<<<<<< HEAD
 
+=======
+![Screenshot 2022-11-09 130053](https://user-images.githubusercontent.com/115171651/200930019-ecf88908-50a7-4b06-8b71-73c0a0bd62ff.png)
+>>>>>>> 2c16c898f5e38ca52ec40d7c55796bdeb2baea98
 
 ### Analysis of Outcomes Based on Goals
 This task was pretty time intensive in making sure the formulas matched.  I think there are some tricks that would make it easier such as using $E$1 which helps lock the cells so it's easier to copy and paste the formulas.  Once I figured that out it made the process quicker.  
+![Screenshot 2022-11-09 130154](https://user-images.githubusercontent.com/115171651/200930128-7fbf3f61-16d1-4f35-aff0-2bd084942391.png)
+
 ### Challenges and Difficulties Encountered
 The only challenged I had was the "Outcomes Based on Goal"  did not match the one on the assignment. I double checked mine and it seems to match the excel sheet. It took me a little while to find the problem whish was I wasn't filtering by subcategory "plays."  After I took care of that it worked well.  
 ## Results
