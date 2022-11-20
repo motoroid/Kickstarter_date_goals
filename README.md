@@ -8,6 +8,8 @@ She has requested to know how different campaigns fared in relation to their lau
 
 ### Analysis of Outcomes Based on Launch Date
 I spent a lot of time playing with pivot tables to understand them more.  It was interesting how I had to close things in the Years column to make it look good.  Such as the quarters.  
+
+
 ### Analysis of Outcomes Based on Goals
 This task was pretty time intensive in making sure the formulas matched.  I think there are some tricks that would make it easier such as using $E$1 which helps lock the cells so it's easier to copy and paste the formulas.  Once I figured that out it made the process quicker.  
 ### Challenges and Difficulties Encountered
